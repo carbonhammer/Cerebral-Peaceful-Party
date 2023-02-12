@@ -1,0 +1,18 @@
+C Programming Language:
+* Das três, a mais nova
+* Desenvolvida nos anos 1970.
+* É uma linguagem procedural, o que significa que se concentra em executar uma série de passos para alcançar um resultado.
+* É uma linguagem de baixo nível, o que significa que é mais próximo do hardware do computador e requer que o programador se preocupe com detalhes como gerenciamento de memória.
+* É amplamente utilizado para sistemas e aplicativos embarcados, drivers, compiladores e outros programas de baixo nível.
+
+C++ Programming Language:
+* É uma evolução do C que foi desenvolvida para fornecer recursos adicionais de programação orientada a objetos.
+* Além da programação procedural, ele também oferece programação orientada a objetos, o que significa que permite aos desenvolvedores organizar o código em objetos que representam entidades reais.
+* É uma linguagem de baixo nível, mas também oferece muitas características avançadas, como templates, exceções, herança, polimorfismo e sobrecarga de operadores, que tornam a linguagem mais poderosa e versátil.
+* É amplamente utilizado em muitas áreas, incluindo sistemas, jogos, aplicativos comerciais e ciência da computação.
+
+C# Programming Language:
+* É uma linguagem de programação desenvolvida pela Microsoft como parte da sua plataforma .NET.
+* É uma linguagem de alto nível, o que significa que é mais abstrata e se concentra em resolver problemas de negócios.
+* Oferece programação orientada a objetos, mas também inclui recursos adicionais, como LINQ (Language Integrated Query), que permite aos desenvolvedores trabalhar com dados de forma mais fácil e intuitiva.
+* É amplamente utilizado para desenvolvimento de aplicativos desktop, web e dispositivos móveis, especialmente na plataforma Windows.

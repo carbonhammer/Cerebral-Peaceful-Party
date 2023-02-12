@@ -1,0 +1,34 @@
+Linguagem de prorgramação: C++
+
+Criador: Bjarne Stroustrup
+
+Quando foi criada: 1979
+
+Onde foi criada: Bell Labs
+
+Motivo para a criação da linguagem: Adicionar recursos de programação orientada a objetos ao C.
+
+Primeiro nome: C com Classes
+
+Renomeada em 1983: C++
+
+Linguagem de alto nivel com possibilidade de acessar os recursos de baixo nivel
+
+Paradigmas: Procedural, Funcional, Orientado a Objetos
+
+Mantenedor : ISO (Organização Internacional de Padrões). 
+
+Última versão: C++ 20
+
+Para que ela serve:
+* programação de sistemas, o que significa que ele é usado para desenvolver sistemas operacionais, 
+* drivers, 
+*compiladores,
+*outros programas de baixo nível que controlam o hardware do computador. 
+* jogos, 
+* aplicativos comerciais,
+*ciência da computação,
+*robotica
+
+Desvantagem desta linguagem é que ela não é das mais populares para um primeiro emprego, 
+porém ela serve como um otimo ponto de partida para aprender a programar. Pois é muito completa.
